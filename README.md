@@ -61,14 +61,12 @@ Stroke and Chronic Kidney Disease (CKD) had the highest prevalence with 33.46% a
 4. Expand *chronic disease management programs* targeting stroke and CKD.  
 5. Enhance *data-driven decision-making systems* for proactive care management.  
 
----
 
 ##  Key Takeaways
 - DAMA and mortality are influenced by *socioeconomic factors, **disease type, and **staffing levels*.  
 - Data analysis can guide *policy and resource allocation* to improve care quality and patient retention.  
 - SQL is a powerful tool for generating impactful healthcare insights.  
 
----
 
 ##  Author
 *Oluwatofunmi Fak-Adeniyi*  
@@ -76,6 +74,3 @@ Stroke and Chronic Kidney Disease (CKD) had the highest prevalence with 33.46% a
  [LinkedIn Profile](https://www.linkedin.com/in/oluwatofunmi-fak-adeniyi-584909260/)  
 
 
----
-
-⭐ If you find this project insightful, consider giving it a star on GitHub! ⭐
